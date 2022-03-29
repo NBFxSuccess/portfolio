@@ -1,0 +1,26 @@
+body {
+    font-family: monospace;
+    background-color: rgb(8, 6, 22);
+}
+h1 {
+    color: rgb(77, 49, 143);
+}
+#pfp {
+    position:relative;
+    align-content: center;
+}
+img {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    border: solid;
+    display: block;
+    flex-wrap: nowrap;
+}
+nav {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    border: solid;
+    display: block;
+}
