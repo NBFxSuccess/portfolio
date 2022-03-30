@@ -4,7 +4,10 @@ body {
 }
 p {
     color:rgb(53, 37, 88);
+    font-size: 17px;
     margin-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 h1 {
     color: rgb(77, 49, 143);
@@ -36,7 +39,7 @@ a:link {
 color: rgb(77, 49, 143);
 }
 .navlink {
-    margin: 50px
+margin: 20px;
 }
 hr {
     background-color: rgb(37, 24, 66);
@@ -66,6 +69,7 @@ h2 {
 .cardtext {
     position: relative;
     margin-left: auto;
+    text-align: center;
     margin-right: auto;
 }
 #tophalf {
