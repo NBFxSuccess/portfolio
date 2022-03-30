@@ -1,6 +1,6 @@
 # File Description
 
-First Portfolio Application submission
+First Portfolio Application for NW Coding Bootcamp.
 
 ## Deployed Application link
 https://nbfxsuccess.github.io/portfolio/
