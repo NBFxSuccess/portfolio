@@ -7,7 +7,7 @@ https://nbfxsuccess.github.io/portfolio/
 
 
 ## Screenshot
-![Alt text](/assets/images/Capture.PNG "Application Screenshot")
+![Porfolio](/assets/img/Capture.PNG "Application Screenshot")
 
 
 ## License
