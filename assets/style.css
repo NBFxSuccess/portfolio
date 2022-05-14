@@ -36,7 +36,7 @@ nav {
 }
 a:link {
     text-decoration: none;
-color: rgb(77, 49, 143);
+color: rgb(255, 255, 255);
 }
 hr {
     background-color: rgb(37, 24, 66);
@@ -69,4 +69,10 @@ flex-direction: column;
 
 #tophalf {
     background-color: rgb(8, 6, 22);
+}
+a:visited {
+    color:rgb(190, 190, 190);
+}
+#contact {
+    margin-left:5px;
 }
